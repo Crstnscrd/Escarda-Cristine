@@ -1,0 +1,48 @@
+.navbar {
+    background-color: Black;
+}
+
+.navbar .nav-link {
+color: white;
+}
+
+.btn {
+    padding: 12px 30px; 
+    font-weight: 900;
+    font-size: 18px;
+}
+
+.btn-Cristine{
+    background-color: White;
+    border: 2px solid rgb(248, 248, 248);
+    border-radius: 60px;
+    transition: all ease-in 0.5s;
+}
+
+.btn-Cristine:hover {
+    color: White;
+    border: 2px solid white;
+}
+
+.yolly{
+    width: 10%
+}
+
+.banner {
+    background: url('y.jpg');
+    height: 1000px;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 45px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 800;
+
+}
+
+.banner p {
+    color: white;
+    font-size: 20px
+}
