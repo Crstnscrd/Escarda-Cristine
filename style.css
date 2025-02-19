@@ -29,8 +29,8 @@ color: white;
 }
 
 .banner {
-    background: url('y.jpg');
-    height: 1000px;
+    background:linear-gradient(90deg, rgba(8, 4, 91, 0.014) 0%, rgba(25, 4, 4, 0.212) 35%, rgba(0, 213, 255, 0.247) 100%), url('grafiti.jpg');
+    height: 900px;
     background-size: cover;
 }
 
